@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SaraPrz/js-info-tasks#readme",
   "devDependencies": {
+    "eslint": "^8.43.0",
     "prettier": "2.8.8"
   }
 }
