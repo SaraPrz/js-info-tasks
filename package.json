@@ -1,0 +1,22 @@
+{
+  "name": "js-info-tasks",
+  "version": "1.0.0",
+  "description": "solve javascript.info tasks and set eslint and prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraPrz/js-info-tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraPrz/js-info-tasks/issues"
+  },
+  "homepage": "https://github.com/SaraPrz/js-info-tasks#readme",
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
